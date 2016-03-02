@@ -1,1 +1,2 @@
 git@github.com:xx/xxx.git
+Are you sure you want to continue connecting
